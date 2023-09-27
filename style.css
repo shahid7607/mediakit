@@ -1,0 +1,33 @@
+.mediakit{
+    height: 70px;
+    width: 70px;
+    display: inline;
+    float: left;
+}
+.man{
+    display: inline;
+    float: right;
+    width: 50%;
+    height: 50%;
+}
+.menu{
+    display: inline;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 5px;
+}
+.startfree{
+    margin-left: 20px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    padding: 5px;
+    border-style: double;
+}
